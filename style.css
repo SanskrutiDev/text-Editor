@@ -1,0 +1,20 @@
+body{
+    margin-top: 100px;
+    text-align: center;
+    background-color: gray;
+}
+h1{
+    color: rgba(20, 18, 19, 0.712);
+}
+div{
+    height: 200px;
+    width: 500px;
+    border: 5px solid rgb(120, 31, 31);
+    margin: auto;
+    background-color: bisque;
+}
+input{
+    width: 300px;
+    height: 50px;
+    text-align: center;
+}
